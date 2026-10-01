@@ -143,7 +143,6 @@ h2.space { margin-top: 3rem; }
 .s1 { background: var(--accent); color: var(--accent-ink); }
 .s2 { background: var(--muted); }
 .s3 { background: var(--ink); color: var(--bg); }
-.s4 { background: var(--line); }
 .legend { list-style: none; padding: 0; margin: 0 0 .5rem; display: flex; flex-wrap: wrap; gap: .4rem 1.25rem; font-size: .92rem; }
 .dot { display: inline-block; width: .8rem; height: .8rem; border-radius: 3px; margin-right: .4rem; vertical-align: -1px; border: 1px solid var(--line); }
 
