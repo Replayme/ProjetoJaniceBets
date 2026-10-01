@@ -129,3 +129,33 @@ a.src:hover { text-decoration: underline; }
 .sources li { margin-bottom: .75rem; overflow-wrap: anywhere; }
 
 footer { border-top: 1px solid var(--line); padding-block: 2rem; color: var(--muted); font-size: .9rem; text-align: center; }
+
+/* --- Dados do trabalho --- */
+.note { font-size: .88rem; color: var(--muted); margin: .5rem 0; }
+.card .note { margin-top: .25rem; }
+.card.wide { margin-top: 1rem; }
+h2.space { margin-top: 3rem; }
+.bullets { padding-left: 1.2rem; margin: 0; }
+.bullets li { margin-bottom: .75rem; }
+
+.bar { display: flex; height: 2.4rem; border-radius: 8px; overflow: hidden; margin: 1rem 0 .75rem; border: 1px solid var(--line); }
+.seg { display: grid; place-items: center; font-weight: 700; font-size: .9rem; min-width: 0; }
+.s1 { background: var(--accent); color: var(--accent-ink); }
+.s2 { background: var(--muted); }
+.s3 { background: var(--ink); color: var(--bg); }
+.s4 { background: var(--line); }
+.legend { list-style: none; padding: 0; margin: 0 0 .5rem; display: flex; flex-wrap: wrap; gap: .4rem 1.25rem; font-size: .92rem; }
+.dot { display: inline-block; width: .8rem; height: .8rem; border-radius: 3px; margin-right: .4rem; vertical-align: -1px; border: 1px solid var(--line); }
+
+.timeline { list-style: none; padding: 0; margin: 1.5rem auto; display: grid; gap: 1rem; border-left: 3px solid var(--accent); padding-left: 1.25rem; }
+.timeline li b { display: block; }
+.timeline li span { color: var(--muted); }
+
+/* --- Créditos --- */
+footer { text-align: center; }
+footer .credits { max-width: 62rem; margin: 0 auto 1.5rem; }
+footer h2 { font-size: 1.1rem; text-transform: uppercase; letter-spacing: .12em; color: var(--accent); margin-bottom: .75rem; }
+.authors { list-style: none; padding: 0; margin: 0 0 1rem; display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem 1.5rem; color: var(--ink); font-weight: 700; font-size: 1.05rem; }
+.school { margin: 0; color: var(--ink); }
+.work { margin: .25rem 0 0; }
+.disclaimer { border-top: 1px solid var(--line); padding-top: 1.25rem; margin-top: 1.5rem; }

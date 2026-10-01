@@ -20,4 +20,8 @@ Qualquer hospedagem estática serve (GitHub Pages, Vercel, Netlify). Aponte para
 
 ## Conteúdo e fontes
 
-Os números do site foram colhidos de reportagens e artigos científicos listados na seção **Fontes** da página. Antes de divulgar, confira os valores nos relatórios originais (Banco Central, IEPS, Ministério da Saúde) e atualize `index.html` se houver dados mais recentes.
+Os dados do site vêm do trabalho "Casas de apostas online no Brasil: popularização, impactos sociais e responsabilidade da publicidade digital" (ETEC Orlando Quagliato, Santa Cruz do Rio Pardo, 2026), cujas referências estão na seção **Fontes** da página. A seção sobre o cérebro vem de estudos de neurociência citados na mesma seção.
+
+## Autores
+
+Arthur Andrioli, Everton Natal de França Junior, Rafael Teixeira dos Santos e Thiago Vidor Dias.

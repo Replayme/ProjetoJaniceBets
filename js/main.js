@@ -42,17 +42,17 @@
     pfc: {
       title: '1 · Córtex pré-frontal',
       text: 'Região ligada ao planejamento, ao autocontrole e à escolha entre ganho imediato e consequência futura. Em pessoas com jogo problemático, o funcionamento dessa região pode ser diferente, o que dificulta resistir ao impulso de apostar e pesar as perdas.',
-      src: 'Fonte: revisões em neurociência do jogo (ver seção Fontes, [4]).'
+      src: 'Fonte: estudos de neurociência do jogo (ver seção Fontes, [13] e [14]).'
     },
     reward: {
       title: '2 · Sistema de recompensa (dopamina)',
-      text: 'O estriado ventral e o mesencéfalo dopaminérgico respondem a ganhos e à expectativa de ganho. Recompensas imprevisíveis, como numa roleta ou num “jogo do tigrinho”, reforçam o comportamento de forma muito forte, num circuito que também é central na dependência de substâncias.',
-      src: 'Fonte: J. Neurosci. 2010; Neuropsychopharmacology 2016 ([4]).'
+      text: 'O estriado ventral e o mesencéfalo dopaminérgico respondem a ganhos e à expectativa de ganho. Recompensas imprevisíveis, como as de uma roleta, reforçam o comportamento de forma muito forte, num circuito que também é central na dependência de substâncias.',
+      src: 'Fonte: J. Neurosci. 2010 [13]; Neuropsychopharmacology 2016 [14].'
     },
     nearmiss: {
       title: '3 · Efeito “quase ganhou”',
-      text: 'Perder por pouco ativa circuitos semelhantes aos da vitória e aumenta a motivação para continuar apostando. Em apostadores com maior gravidade, a resposta do mesencéfalo e do estriado a esses “quase” é ainda mais intensa. Muitos jogos digitais são desenhados para produzir esse efeito com frequência.',
-      src: 'Fonte: PMC2658737; Neuropsychopharmacology 2016 ([4]).'
+      text: 'Perder por pouco ativa circuitos semelhantes aos da vitória e aumenta a motivação para continuar apostando. Em apostadores com maior gravidade, a resposta do mesencéfalo e do estriado a esses “quase” é ainda mais intensa.',
+      src: 'Fonte: PMC2658737 [13]; Neuropsychopharmacology 2016 [14].'
     }
   };
 
